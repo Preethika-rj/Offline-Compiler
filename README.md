@@ -1,5 +1,5 @@
-Offline Java Compiler
-Overview
+**Offline Java Compile**r
+**Overview**
 
 Offline Java Compiler is a Java Swing desktop app that lets you write, compile, run, and save Java programs offline. Programs are stored in PostgreSQL using JDBC.
 
